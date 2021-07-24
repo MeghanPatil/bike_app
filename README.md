@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Tech stack used for this project:-
+Flutter
+PHP
+MySQL
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
