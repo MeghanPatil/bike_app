@@ -2,10 +2,12 @@
 
 A new Flutter project.
 
-Tech stack used for this project:-
+ stack used for this project:-
 Flutter
 PHP
 MySQL
+
+Note: Server is hosted on localhost . 
 
 ## Getting Started
 
