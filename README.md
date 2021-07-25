@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+There are some automotive images load from server 
+And if tap on any image new screen will open and 
+ Display image on which you tap. 
+
  stack used for this project:-
 Flutter
 PHP
